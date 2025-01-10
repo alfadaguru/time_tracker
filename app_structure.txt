@@ -1,0 +1,17 @@
+time_tracker/
+│── lib/
+│   ├── models/
+│   │   ├── project_model.dart
+│   │   ├── task_model.dart
+│   │   ├── time_entry_model.dart
+│   ├── provider/
+│   │   ├── time_entry_provider.dart
+│   ├── dialogs/
+│   │   ├── add_time_entry_dialog.dart
+│   │   ├── delete_confirmation_dialog.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── add_time_entry_screen.dart
+│   │   ├── project_task_management_screen.dart
+│   ├── main.dart
+│── pubspec.yaml
